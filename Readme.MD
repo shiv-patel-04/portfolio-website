@@ -90,9 +90,9 @@ Client Websites                   ████████              Growing.
 
 ## 📬 Contact Me
 
-🌐 Company: peacefulqode.co.in
-📧 Email: shivpatel8855@gmail.com
-📱 Phone: +91 92652 18519
+- 🌐 Company: peacefulqode.co.in
+- 📧 Email: shivpatel8855@gmail.com
+- 📱 Phone: +91 92652 18519
 
 ---
 
