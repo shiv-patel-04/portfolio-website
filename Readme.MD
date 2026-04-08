@@ -96,8 +96,4 @@ Client Websites                   ████████              Growing.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiv-patel-04&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
-</p>
 
-<p align="center">⭐ <i>If you like my work, consider giving a star!</i> ⭐</p>
