@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working at **[PeacefulQode](https://peacefulqode.com/)** as a **WordPress Theme Developer**
+- 🏢 Currently working at **[PeacefulQode](https://themeforest.net/user/peacefulqode/portfolio?srsltid=AfmBOopjGDEBpPGM-2PCEPlgNgaMx_gWGOuCIF4LCje3PUuq1OsRI8wa)** as a **WordPress Theme Developer**
 - 🎨 I build **premium WordPress themes** for ThemeForest marketplace
 - 💻 Specialized in **pixel-perfect UI**, responsive design & clean code
 - 🌐 Also develop **HTML templates** and **client websites**
