@@ -90,10 +90,9 @@ Client Websites                   ████████              Growing.
 
 ## 📬 Contact Me
 
-- 🌐 Company: [peacefulqode.co.in](https://peacefulqode.co.in)
-- 📧 Email: *(your email here)*
-- 💼 LinkedIn: *(your LinkedIn here)*
-- 🛒 ThemeForest: *(your profile link here)*
+🌐 Company: peacefulqode.co.in
+📧 Email: shivpatel8855@gmail.com
+📱 Phone: +91 92652 18519
 
 ---
 
