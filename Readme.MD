@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working at **[PeacefulQode](https://peacefulqode.co.in)** as a **WordPress Theme Developer**
+- 🏢 Currently working at **[PeacefulQode](https://peacefulqode.com/)** as a **WordPress Theme Developer**
 - 🎨 I build **premium WordPress themes** for ThemeForest marketplace
 - 💻 Specialized in **pixel-perfect UI**, responsive design & clean code
 - 🌐 Also develop **HTML templates** and **client websites**
@@ -90,7 +90,7 @@ Client Websites                   ████████              Growing.
 
 ## 📬 Contact Me
 
-- 🌐 Company: [peacefulqode.co.in](https://peacefulqode.co.in)
+- 🌐 Company: [peacefulqode.co.in](https://peacefulqode.com/)
 - 📧 Email: shivpatel8855@gmail.com
 - 📱 Phone: +91 92652 18519
 
