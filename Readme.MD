@@ -1,56 +1,26 @@
-<h1 align="center">👋 Hi, I'm the Developer behind <a href="https://peacefulqode.co.in" target="_blank">PeacefulQode</a></h1>
+<h1 align="center">Hi 👋, I'm Shiv Patel</h1>
+
+<h3 align="center">WordPress Theme Developer at <a href="https://peacefulqode.co.in" target="_blank">PeacefulQode</a> · Ahmedabad, India</h3>
 
 <p align="center">
-  <b>WordPress Theme Developer · HTML Template Designer · Freelance Web Developer</b><br/>
-  Building premium themes for ThemeForest & custom websites for clients
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=WordPress+Theme+Developer;ThemeForest+Theme+Creator;HTML+%2F+CSS+%2F+JS+Developer;Pixel+Perfect+UI+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://peacefulqode.co.in"><img src="https://img.shields.io/badge/Website-peacefulqode.co.in-blue?style=flat-square&logo=google-chrome" /></a>
-  <img src="https://img.shields.io/badge/ThemeForest-Seller-brightgreen?style=flat-square&logo=envato" />
-  <img src="https://img.shields.io/badge/WordPress-Theme%20Developer-21759B?style=flat-square&logo=wordpress" />
-  <img src="https://img.shields.io/badge/HTML5-Template%20Designer-E34F26?style=flat-square&logo=html5" />
+  <a href="https://peacefulqode.co.in"><img src="https://img.shields.io/badge/Company-PeacefulQode-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThemeForest-Active%20Developer-82B541?style=for-the-badge&logo=envato&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 ThemeForest Projects
+## 👨‍💻 About Me
 
-Premium WordPress themes available on Envato ThemeForest marketplace.
-
-| # | Theme | Niche | Live Preview |
-|---|-------|-------|--------------|
-| 1 | **Wellora** | Wellness & Spa Salon | [🔗 Preview](https://wellora.peacefulqode.co.in/) |
-| 2 | **Growix** | Business / Startup | [🔗 Preview](https://growix.peacefulqode.co.in/) |
-| 3 | **Labstica** | Laboratory / Science | [🔗 Preview](https://labstica.peacefulqode.co.in/) |
-| 4 | **Seanova** | Marine / Ocean | [🔗 Preview](https://seanova.peacefulqode.co.in/) |
-| 5 | **Rovista** | Real Estate | [🔗 Preview](https://rovista.peacefulqode.co.in/) |
-| 6 | **Solvex** | IT Solutions | [🔗 Preview](https://solvex.peacefulqode.co.in/) |
-| 7 | **Tekzo** | Technology | [🔗 Preview](https://tekzo.peacefulqode.co.in/) |
-| 8 | **Handzo** | Handyman / Services | [🔗 Preview](https://handzo.peacefulqode.co.in/) |
-
----
-
-## 💼 Client Projects
-
-Real-world websites delivered for clients.
-
-| # | Project | Live URL |
-|---|---------|----------|
-| 1 | **Ajay's** | [🔗 ajays.co.in](https://ajays.co.in/) |
-
----
-
-## 🎨 HTML Templates
-
-Pure HTML/CSS/JS templates — clean, fast, and ready to use.
-
-| # | Template | Live Preview |
-|---|----------|--------------|
-| 1 | **CarCareful** | [🔗 Preview](https://peacefulqode.co.in/themes/carcareful/html/index-1.html) |
-| 2 | **Melipona** | [🔗 Preview](https://peacefulqode.co.in/themes/melipona/html/index.html) |
-| 3 | **Agritex** | [🔗 Preview](https://peacefulqode.co.in/themes/agritex/index.html) |
-| 4 | **Gemzie** | [🔗 Preview](https://peacefulqode.co.in/themes/gemzie/index.html) |
+- 🏢 Currently working at **[PeacefulQode](https://peacefulqode.co.in)** as a **WordPress Theme Developer**
+- 🎨 I build **premium WordPress themes** for ThemeForest marketplace
+- 💻 Specialized in **pixel-perfect UI**, responsive design & clean code
+- 🌐 Also develop **HTML templates** and **client websites**
+- 📍 Based in **Ahmedabad, Gujarat, India**
 
 ---
 
@@ -66,34 +36,73 @@ Pure HTML/CSS/JS templates — clean, fast, and ready to use.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 📊 What I Build
+## 🚀 ThemeForest Projects @ PeacefulQode
 
-```
-ThemeForest Themes    ████████████████████  8 Themes
-HTML Templates        ████████████          4 Templates
-Client Websites       ████████              Growing...
-```
+> Premium WordPress themes I have developed for the Envato ThemeForest marketplace.
 
-- ✅ **Pixel-perfect** UI from Figma / PSD designs
-- ✅ **Responsive** — Mobile, Tablet, Desktop
-- ✅ **SEO Friendly** & Performance Optimized
-- ✅ **Cross-browser** Compatible
-- ✅ **Clean & Well-commented** Code
+| Theme | Niche | Live Preview |
+|-------|-------|--------------|
+| 🧘 **Wellora** | Wellness & Spa Salon | [View Demo](https://wellora.peacefulqode.co.in/) |
+| 📈 **Growix** | Business / Startup | [View Demo](https://growix.peacefulqode.co.in/) |
+| 🔬 **Labstica** | Laboratory & Science | [View Demo](https://labstica.peacefulqode.co.in/) |
+| 🌊 **Seanova** | Marine & Ocean | [View Demo](https://seanova.peacefulqode.co.in/) |
+| 🏠 **Rovista** | Real Estate | [View Demo](https://rovista.peacefulqode.co.in/) |
+| 💡 **Solvex** | IT Solutions | [View Demo](https://solvex.peacefulqode.co.in/) |
+| ⚙️ **Tekzo** | Technology | [View Demo](https://tekzo.peacefulqode.co.in/) |
+| 🔧 **Handzo** | Handyman & Home Services | [View Demo](https://handzo.peacefulqode.co.in/) |
 
 ---
 
-## 📬 Contact
+## 🎨 HTML Templates @ PeacefulQode
 
-- 🌐 Website: [peacefulqode.co.in](https://peacefulqode.co.in)
-- 📧 Email: *(add your email here)*
-- 🛒 ThemeForest: *(add your ThemeForest profile link here)*
+> Clean, fast and fully responsive HTML/CSS/JS templates.
+
+| Template | Live Preview |
+|----------|--------------|
+| 🚗 **CarCareful** | [View Demo](https://peacefulqode.co.in/themes/carcareful/html/index-1.html) |
+| 🐝 **Melipona** | [View Demo](https://peacefulqode.co.in/themes/melipona/html/index.html) |
+| 🌾 **Agritex** | [View Demo](https://peacefulqode.co.in/themes/agritex/index.html) |
+| 💎 **Gemzie** | [View Demo](https://peacefulqode.co.in/themes/gemzie/index.html) |
+
+---
+
+## 💼 Client Projects
+
+> Live websites delivered for real clients.
+
+| Client | Live URL |
+|--------|----------|
+| 🍽️ **Ajay's** | [ajays.co.in](https://ajays.co.in/) |
+
+---
+
+## 📊 Work Summary
+
+```
+WordPress Themes (ThemeForest)    ████████████████████  8 Themes
+HTML Templates                    ████████████          4 Templates
+Client Websites                   ████████              Growing...
+```
+
+---
+
+## 📬 Contact Me
+
+- 🌐 Company: [peacefulqode.co.in](https://peacefulqode.co.in)
+- 📧 Email: *(your email here)*
+- 💼 LinkedIn: *(your LinkedIn here)*
+- 🛒 ThemeForest: *(your profile link here)*
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://peacefulqode.co.in">PeacefulQode</a>
+  <img src="https://komarev.com/ghpvc/?username=shiv-patel-04&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">⭐ <i>If you like my work, consider giving a star!</i> ⭐</p>
