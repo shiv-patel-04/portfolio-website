@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://peacefulqode.co.in"><img src="https://img.shields.io/badge/Company-PeacefulQode-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/ThemeForest-Active%20Developer-82B541?style=for-the-badge&logo=envato&logoColor=white" />
 </p>
 
