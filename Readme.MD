@@ -19,6 +19,7 @@
 - 🎨 I build **premium WordPress themes** for ThemeForest marketplace
 - 💻 Specialized in **pixel-perfect UI**, responsive design & clean code
 - 🌐 Also develop **HTML templates** and **client websites**
+- 🌐 Modern **Elementor Pages** and **Client Websit**
 - 📍 Based in **Navsari, Gujarat, India**
 
 ---
