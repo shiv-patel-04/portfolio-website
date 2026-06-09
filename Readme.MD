@@ -77,7 +77,7 @@
 | 💡 **Solvex** | IT Solutions | [View Demo](https://solvex.peacefulqode.co.in/) |
 | ⚙️ **Tekzo** | Technology | [View Demo](https://tekzo.peacefulqode.co.in/) |
 | ♻️ **Wastex** | Waste Management & Recycling | [View Demo](https://wastex.peacefulqode.in/) |
-| 🌪️ **Vortex** | Digital Agency & Business Solutions | [View Demo](https://vortex.peacefulqode.co.in/) |
+| 🌪️ **Vortex** | Karate & Martial Arts School | [View Demo](https://vortex.peacefulqode.co.in/) |
 | 🐞 **Bugex** | Pest Control Services | [View Demo](https://bugex.peacefulqode.co.in/) |
 | 🥛 **Farmilk** | Dairy Farm & Milk Products | [View Demo](https://farmilk.peacefulqode.co.in/) |
 
