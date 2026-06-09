@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://peacefulqode.com/"><img src="https://img.shields.io/badge/Company-PeacefulQode-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://themeforest.net/user/peacefulqode/portfolio" target="_blank">
   <img src="https://img.shields.io/badge/ThemeForest-Active%20Developer-82B541?style=for-the-badge&logo=envato&logoColor=white" />
+</a>
 </p>
 
 ---
