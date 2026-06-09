@@ -74,7 +74,10 @@
 
 | Client | Live URL |
 |--------|----------|
-| 🍽️ **Ajay's** | [ajays.co.in](https://ajays.co.in/) |
+| 🍽️ **Ajay's** | https://ajays.co.in/ |
+| 🌊 **Waterkeepers Bahamas** | https://www.waterkeepersbahamas.org/ |
+| 👗 **BAE Pink** | https://baepink.com/ |
+| 🚀 **Qult Brands** | https://qultbrands.com/ |
 
 ---
 
@@ -83,7 +86,7 @@
 ```
 WordPress Themes (ThemeForest)    ████████████████████  8 Themes
 HTML Templates                    ████████████          4 Templates
-Client Websites                   ████████              Growing...
+Client Websites                   ████████████          4 Templates
 ```
 
 ---
