@@ -1,7 +1,6 @@
-<!-- Animated Wave Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Shiv%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WordPress%20Theme%20Developer%20%7C%20Pixel%20Perfect%20UI%20Builder&descAlignY=55&descAlign=50" width="100%" />
-</p>
+<h1 align="center">Hi 👋, I'm Shiv Patel</h1>
+
+<h3 align="center">WordPress Theme Developer at <a href="https://peacefulqode.com/" target="_blank">PeacefulQode</a> Navsari, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=WordPress+Theme+Developer;ThemeForest+Theme+Creator;HTML+%2F+CSS+%2F+JS+Developer;Pixel+Perfect+UI+Builder" alt="Typing SVG" />
