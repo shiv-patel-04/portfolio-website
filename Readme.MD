@@ -52,6 +52,10 @@
 | 💡 **Solvex** | IT Solutions | [View Demo](https://solvex.peacefulqode.co.in/) |
 | ⚙️ **Tekzo** | Technology | [View Demo](https://tekzo.peacefulqode.co.in/) |
 | 🔧 **Handzo** | Handyman & Home Services | [View Demo](https://handzo.peacefulqode.co.in/) |
+| ♻️ **Wastex** | Waste Management & Recycling | [View Demo](https://wastex.peacefulqode.in/) |
+| 🌪️ **Vortex** | Digital Agency & Business Solutions | [View Demo](https://vortex.peacefulqode.co.in/) |
+| 🐞 **Bugex** | Pest Control Services | [View Demo](https://bugex.peacefulqode.co.in/) |
+| 🥛 **Farmilk** | Dairy Farm & Milk Products | [View Demo](https://farmilk.peacefulqode.co.in/) |
 
 ---
 
@@ -75,7 +79,6 @@
 | Client | Live URL |
 |--------|----------|
 | 🍽️ **Ajay's** | https://ajays.co.in/ |
-| 🌊 **Waterkeepers Bahamas** | https://www.waterkeepersbahamas.org/ |
 | 👗 **BAE Pink** | https://baepink.com/ |
 | 🚀 **Qult Brands** | https://qultbrands.com/ |
 
@@ -84,9 +87,9 @@
 ## 📊 Work Summary
 
 ```
-WordPress Themes (ThemeForest)    ████████████████████  8 Themes
+WordPress Themes (ThemeForest)    ████████████████████  12 Themes
 HTML Templates                    ████████████          4 Templates
-Client Websites                   ████████████          4 Templates
+Client Websites                   ████████              3 Templates
 ```
 
 ---
