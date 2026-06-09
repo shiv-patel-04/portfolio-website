@@ -67,7 +67,7 @@
 
 > Premium WordPress themes I have developed for the Envato ThemeForest marketplace.
 
-| Theme | Niche | Live Preview |
+| Theme | Website Category | Live Preview |
 |-------|-------|--------------|
 | 🧘 **Wellora** | Wellness & Spa Salon | [View Demo](https://wellora.peacefulqode.co.in/) |
 | 📈 **Growix** | Business / Startup | [View Demo](https://growix.peacefulqode.co.in/) |
