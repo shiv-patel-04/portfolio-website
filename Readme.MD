@@ -74,7 +74,7 @@
 | 🔬 **Labstica** | Laboratory & Science | [View Demo](https://labstica.peacefulqode.co.in/) |
 | 🌊 **Seanova** | Marine & Ocean | [View Demo](https://seanova.peacefulqode.co.in/) |
 | 🏠 **Rovista** | Real Estate | [View Demo](https://rovista.peacefulqode.co.in/) |
-| 💡 **Solvex** | IT Solutions | [View Demo](https://solvex.peacefulqode.co.in/) |
+| 💡 **Solvex** | Solar Energy & Renewable Power | [View Demo](https://solvex.peacefulqode.co.in/) |
 | ⚙️ **Tekzo** | Technology | [View Demo](https://tekzo.peacefulqode.co.in/) |
 | ♻️ **Wastex** | Waste Management & Recycling | [View Demo](https://wastex.peacefulqode.in/) |
 | 🌪️ **Vortex** | Karate & Martial Arts School | [View Demo](https://vortex.peacefulqode.co.in/) |
