@@ -1,128 +1,48 @@
-<h1 align="center">Hi 👋, I'm Shiv Patel</h1>
-
-<h3 align="center">WordPress Theme Developer at <a href="https://peacefulqode.com/" target="_blank">PeacefulQode</a> Navsari, India</h3>
-
+<!-- Animated Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=WordPress+Theme+Developer;ThemeForest+Theme+Creator;HTML+%2F+CSS+%2F+JS+Developer;Pixel+Perfect+UI+Builder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Shiv%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WordPress%20Theme%20Developer%20%7C%20Pixel%20Perfect%20UI%20Builder&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://peacefulqode.com/"><img src="https://img.shields.io/badge/Company-PeacefulQode-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://themeforest.net/user/peacefulqode/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/ThemeForest-Active%20Developer-82B541?style=for-the-badge&logo=envato&logoColor=white" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=WordPress+Theme+Developer+%F0%9F%8E%A8;ThemeForest+Author+%F0%9F%93%88;Pixel+Perfect+UI+Builder+%F0%9F%96%8C%EF%B8%8F;HTML+%7C+CSS+%7C+JS+%7C+PHP+%7C+Elementor+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social & Company Badges -->
+<p align="center">
+  <a href="https://peacefulqode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🏢%20PeacefulQode-6C63FF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://themeforest.net/user/peacefulqode/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/ThemeForest-Active%20Author-82B541?style=for-the-badge&logo=envato&logoColor=white" />
+  </a>
+  <a href="mailto:shivpatel8855@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+919265218519">
+    <img src="https://img.shields.io/badge/📱%20+91%2092652%2018519-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivpatel8855&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🏢 Currently working at **[PeacefulQode](https://themeforest.net/user/peacefulqode/portfolio?srsltid=AfmBOopjGDEBpPGM-2PCEPlgNgaMx_gWGOuCIF4LCje3PUuq1OsRI8wa)** as a **WordPress Theme Developer**
-- 🎨 I build **premium WordPress themes** for ThemeForest marketplace
-- 💻 Specialized in **pixel-perfect UI**, responsive design & clean code
-- 🌐 Modern **Elementor Pages** and **Client Websit**
-- 📍 Based in **Navsari, Gujarat, India**
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <a href="https://wordpress.org/" target="_blank">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
-
-  <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a>
-
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </a>
-
-  <a href="https://elementor.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 ThemeForest Projects @ PeacefulQode
-
-> Premium WordPress themes I have developed for the Envato ThemeForest marketplace.
-
-| Theme | Website Category | Live Preview |
-|-------|-------|--------------|
-| 🧘 **Wellora** | Wellness & Spa Salon | [View Demo](https://wellora.peacefulqode.co.in/) |
-| 📈 **Growix** | Business / Startup | [View Demo](https://growix.peacefulqode.co.in/) |
-| 🔬 **Labstica** | Laboratory & Science | [View Demo](https://labstica.peacefulqode.co.in/) |
-| 🌊 **Seanova** | Marine & Ocean | [View Demo](https://seanova.peacefulqode.co.in/) |
-| 🏠 **Rovista** | Real Estate | [View Demo](https://rovista.peacefulqode.co.in/) |
-| 💡 **Solvex** | Solar Energy & Renewable Power | [View Demo](https://solvex.peacefulqode.co.in/) |
-| ⚙️ **Tekzo** | Technology | [View Demo](https://tekzo.peacefulqode.co.in/) |
-| ♻️ **Wastex** | Waste Management & Recycling | [View Demo](https://wastex.peacefulqode.in/) |
-| 🌪️ **Vortex** | Karate & Martial Arts School | [View Demo](https://vortex.peacefulqode.co.in/) |
-| 🐞 **Bugex** | Pest Control Services | [View Demo](https://bugex.peacefulqode.co.in/) |
-| 🥛 **Farmilk** | Dairy Farm & Milk Products | [View Demo](https://farmilk.peacefulqode.co.in/) |
-
----
-
-## 🎨 HTML Templates @ PeacefulQode
-
-> Clean, fast and fully responsive HTML/CSS/JS templates.
-
-| Template | Live Preview |
-|----------|--------------|
-| 🚗 **CarCareful** | [View Demo](https://peacefulqode.co.in/themes/carcareful/html/index-1.html) |
-| 🐝 **Melipona** | [View Demo](https://peacefulqode.co.in/themes/melipona/html/index.html) |
-| 🌾 **Agritex** | [View Demo](https://peacefulqode.co.in/themes/agritex/index.html) |
-| 💎 **Gemzie** | [View Demo](https://peacefulqode.co.in/themes/gemzie/index.html) |
-
----
-
-## 💼 Client Projects
-
-> Live websites delivered for real clients.
-
-| Client | Live URL |
-|--------|----------|
-| 🍽️ **Ajay's** | https://ajays.co.in/ |
-| 👗 **BAE Pink** | https://baepink.com/ |
-| 🚀 **Qult Brands** | https://qultbrands.com/ |
-
----
-
-## 📊 Work Summary
-
-```
-WordPress Themes (ThemeForest)    ████████████████████  11 Themes
-HTML Templates                    ████████████          4 Templates
-Client Websites                   ████████              3 Templates
-```
-
----
-
-## 📬 Contact Me
-
-- 📧 Email: shivpatel8855@gmail.com
-- 📱 Phone: +91 92652 18519
-
----
-
-
+```js
+const shiv = {
+  name: "Shiv Patel",
+  role: "WordPress Theme Developer",
+  company: "PeacefulQode",
+  location: "Navsari, Gujarat, India 🇮🇳",
+  focus: ["Premium WordPress Themes", "ThemeForest Marketplace", "Pixel Perfect UI"],
+  techStack: ["WordPress", "PHP", "Elementor", "HTML5", "CSS3", "JavaScript", "Bootstrap"],
+  currentlyWorking: "Building next-gen WordPress themes for ThemeForest 🚀",
+  funFact: "I turn coffee ☕ into pixel-perfect WordPress themes!"
+};
